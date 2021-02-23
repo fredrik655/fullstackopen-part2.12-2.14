@@ -1,0 +1,14 @@
+{
+  "current": {
+    "temperature": 10,
+    "weather_icons": {
+      "0": ""
+    },
+    "wind_speed": 22,
+    "wind_dir": "w"
+  },
+  "not_current": {
+    "hello": 0
+  }
+
+}
